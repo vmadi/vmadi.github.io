@@ -5,7 +5,7 @@
     "author": "",
     "repository": {
         "type": "git",
-        "url": "http://github.com/harthur/brain.git"
+        "url": "http://vmadi.github.io"
     },
     "scripts": {
         "test-unit": "mocha test/unit",
